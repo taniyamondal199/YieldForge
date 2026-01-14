@@ -113,14 +113,17 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network mantleTestnet
 Deployment outputs:
 
-AssetNFT address
+AssetNFT address 
+
 YieldVault address
+
 PT and YT token addresses
 6️⃣ Run Frontend
 cd frontend
 npm install
 npm run dev
 Open:
+
 http://localhost:3000
 
 
