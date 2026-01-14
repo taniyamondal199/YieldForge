@@ -118,6 +118,7 @@ AssetNFT address
 YieldVault address
 
 PT and YT token addresses
+
 The application is launched and running! 🚀
 
 Frontend: http://localhost:3000
