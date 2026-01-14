@@ -103,13 +103,17 @@ Make real-world yield as programmable, private, and composable as DeFi itself.
 - Mantle Testnet RPC
 - Test ETH on Mantle Testnet
 1️⃣ Clone the Repository
+
 git clone https://github.com/taniyamondal199/yieldforge.git
 cd yieldforge
 2️⃣ Install Dependencies
+
 npm install
 4️⃣ Compile Contracts
+
 npx hardhat compile
 5️⃣ Deploy to Mantle Testnet
+
 npx hardhat run scripts/deploy.js --network mantleTestnet
 Deployment outputs:
 
@@ -119,12 +123,16 @@ YieldVault address
 
 PT and YT token addresses
 
-The application is launched and running! 🚀
+🚀 Launch Status: ACTIVE
 
-Frontend: http://localhost:3000
-Backend: http://localhost:4000
-Local Network Access: http://169.254.191.127:3000 (for devices on your Wi-Fi)
-Public URL: Check the new terminal window that opened for the localtunnel link.
+Frontend: Running on port 3000 ✅
+Backend: Running on port 4000 ✅
+Browser: Multiple tabs already open at http://localhost:3000/vaults ✅
+Access URLs
+
+Local: http://localhost:3000
+Network: http://169.254.191.127:3000 (for devices on same Wi-Fi)
+Public Tunnel: Check the localtunnel window for your public URL
 
 
 
