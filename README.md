@@ -128,6 +128,7 @@ PT and YT token addresses
 Frontend: Running on port 3000 ✅
 Backend: Running on port 4000 ✅
 Browser: Multiple tabs already open at http://localhost:3000/vaults ✅
+
 Access URLs
 
 Local: http://localhost:3000
