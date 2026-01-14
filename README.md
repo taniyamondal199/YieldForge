@@ -118,13 +118,14 @@ AssetNFT address
 YieldVault address
 
 PT and YT token addresses
-6️⃣ Run Frontend
-cd frontend
-npm install
-npm run dev
-Open:
+The application is launched and running! 🚀
 
-http://localhost:3000
+Frontend: http://localhost:3000
+Backend: http://localhost:4000
+Local Network Access: http://169.254.191.127:3000 (for devices on your Wi-Fi)
+Public URL: Check the new terminal window that opened for the localtunnel link.
+
+
 
 
 
